@@ -1,0 +1,5 @@
+1. Create a virtual environment in python
+& "C:\Users\dell\AppData\Local\Programs\Python\Python311\python.exe" -m venv venv
+2. Activate the virtual environment
+venv\Scripts\activate.bat (CMD)
+venv\Scripts\Activate.ps1 --> (powershell)
